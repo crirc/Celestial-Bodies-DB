@@ -25,3 +25,4 @@
 22. All columns named name should be of type `VARCHAR`.
 23. Each `primary key` column should follow the naming convention `table_name_id`. For example : the `moon` table should have a `primary key` column named `moon_id`.
 24. Each `foreign key` column should have the same name as the `column` it is referencing.
+25. Save the universe.sql file in a public repository and submit the URL to it on freeCodeCamp.org.
